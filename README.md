@@ -1,4 +1,4 @@
-# Serial-Communication-Chat
+# Serial_Communication_Chat
 Proyecto en C# que permite establecer un chat mediante comunicación serial, utilizando un sistema de tramas. Solución completa y confiable para el envío y recepción de mensajes entre dispositivos.
 
 Este proyecto en C# ofrece una solución completa para la comunicación mediante puerto serial, utilizando un sistema de transmisión y recepción de mensajes por tramas. El proyecto consta de dos aplicaciones independientes: una como transmisor y otra como receptor.
